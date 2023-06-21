@@ -219,13 +219,28 @@ body{
 @media screen and (max-width: 600px) {
     body{
         overflow-x: hidden;
+      
     }
     .first h1{
         color: #000000;
         font-family: "Poppins", Sans-serif;
-        font-size: 300%;
-        font-weight: 800;
+        font-size: 200%;
+        font-weight: 700;
         line-height: 73px
+    }
+    .first p{
+        color: #6F7B99;
+        font-family: "Poppins", Sans-serif;
+        font-size: 18px;
+        font-weight: 200;
+    
+    }
+    .first .rowbtn{
+        width: 40%;
+        font-size: 12px;
+        text-align: center;
+        text-transform: uppercase;
+    
     } 
     .header-partners h3{
         font-size: 30px;
