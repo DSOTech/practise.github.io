@@ -217,6 +217,9 @@ body{
 } 
 
 @media screen and (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+    }
     .manage-item h2{
         color: rgba(49, 47, 47, 0.849);
         font-family: "Poppins", Sans-serif;
