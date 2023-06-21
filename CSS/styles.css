@@ -220,6 +220,16 @@ body{
     body{
         overflow-x: hidden;
     }
+    .first h1{
+        color: #000000;
+        font-family: "Poppins", Sans-serif;
+        font-size: 300%;
+        font-weight: 800;
+        line-height: 73px
+    } 
+    .header-partners h3{
+        font-size: 30px;
+    }
     .manage-item h2{
         color: rgba(49, 47, 47, 0.849);
         font-family: "Poppins", Sans-serif;
